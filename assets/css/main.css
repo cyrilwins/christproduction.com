@@ -1364,8 +1364,8 @@
 /* Footer */
 
 	#footer {
-		padding: 1em 0 1em 0;
-		background-color: #1b1b1f;
+		
+		background-color: #ed5417;
 		text-align: center;
 	}
 
@@ -1401,7 +1401,7 @@
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 3em 0 1em 0;
+				
 			}
 
 		}
