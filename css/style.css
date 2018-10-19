@@ -14328,7 +14328,12 @@ input[type="email"].newsletter-input:focus {
     display: none;
 
   }
-
+  a.btn.btn-lg.scroll_btn.btn-transparent {
+    margin-top: 40px!important;
+}
+.tp-caption.medium-text{
+  font-size: 18px!important
+}
 }
 
 .navigation .logo-wrap img{max-width:374px !important;}
@@ -14521,30 +14526,93 @@ input[type="email"].newsletter-input:focus {
 
 
 
+.work-item.ctas {
+    margin:  15px 0px;
+}
+
+a.view_page {
+    display:  inline;
+    padding:  15px 42px;
+    font-size:  18px;
+}
 
 
 
 
+/*.section-wrap.ctas {
+    background:  #2d2d2d;
+}*/
+
+.work-item.ctas img {
+    border-radius: 7px;
+}
+
+.button_row a {
+    border:  1px solid #ec5435;
+}
+
+.button_row .btn.btn-transparent {
+    border-color:  #ec5435;
+    color:  #ec5435;
+    background: #ec5435;
+    color: #fff;
+}
+
+.button_row .btn.btn-transparent:hover {
+    color:  #fff;
+}
+
+.button_row {
+    margin-top:  60px;
+}
 
 
+.portfolio-filter h4 {
+    font-weight: 700;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.portfolio-filter p {
+    margin-bottom: 0px;
+    font-size:14px;
+}
+.music_video .work-description {
+    padding: 5px 20px;
+}
 
+.button_row {
+    margin-top: 65px;
+}
+.button_row p {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
 
+.contact-area.ctas {
+    margin-top: 60px;
+}
 
+.pagination.ctas {
+    margin-top: 30px;
+}
 
+.pagination.ctas h3 {
+    font-weight: 700;
+    font-size: 20px;
+}
 
+.pagination.ctas p {
+    font-weight: 400;
+}
+.button_row h4 {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.button_row p {
+    margin-top: 10px;
+}
 
 
 
